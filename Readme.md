@@ -37,29 +37,6 @@ RT @Imranmuhdz: The majority of fuel stations...
 - [deep_translator](https://github.com/nidhaloff/deep-translator)
 - Twitter Developer API v2
 
-## 🧪 How to Run
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
-   cd YourRepoName
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the script:
-
-   ```bash
-   python sentiment_analysis.py
-   ```
-
-4. Update query terms in the script to analyze other topics.
-
 ## 🔐 API Authentication
 
 To use the Twitter API, generate a **Bearer Token** from your [Twitter Developer Portal](https://developer.twitter.com/) and paste it in the `TwitterClient` class.
